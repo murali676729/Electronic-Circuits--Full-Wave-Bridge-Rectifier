@@ -26,4 +26,12 @@ To implement a full wave bridge rectifier with and without filter and to measure
 
 
 ## RESULT:
-![Uploading image.png…]()
+<img width="1600" height="942" alt="image" src="https://github.com/user-attachments/assets/dee8ced6-61f7-4f39-b191-9cb61729344d" />
+
+
+
+
+
+
+
+
